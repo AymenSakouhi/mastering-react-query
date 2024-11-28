@@ -7,5 +7,5 @@ export function Species({ name, language, averageLifespan }) {
         <li>average lifespan: {averageLifespan}</li>
       </ul>
     </li>
-  );
+  )
 }
